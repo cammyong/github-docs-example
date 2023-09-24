@@ -76,6 +76,8 @@ You can use the following markdown format to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[3]<sup>](#external-references)
 
+![Photo of success](assets/hardworkiskeytosuccess.jpeg)
+
 ## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]<sup>
